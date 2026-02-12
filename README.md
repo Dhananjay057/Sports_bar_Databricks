@@ -1,4 +1,4 @@
-# Sports_bar_Databricks
+# Sports_bar_Pipeline
 
 This README file provides a comprehensive overview of the End-to-End Data Engineering Project designed to consolidate data from a parent company (Atlon) and its newly acquired subsidiary (Sports Bar) within the FMCG domain.
 FMCG Data Engineering Project: Atlon & Sports Bar Merger
